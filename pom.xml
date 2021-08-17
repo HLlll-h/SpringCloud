@@ -15,6 +15,7 @@
       <module>2_cloud_api_commons</module>
     <module>5_cloud_eureka_server7001</module>
     <module>6_cloud_eureka_server7002</module>
+      <module>7_cloud_provider_payment8002</module>
   </modules>
 
   <!-- 统一管理jar包版本 -->
