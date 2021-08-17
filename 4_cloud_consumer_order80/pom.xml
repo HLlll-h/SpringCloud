@@ -54,6 +54,7 @@
             <version>${project.version}</version>
         </dependency>
         <!--引入eureka-client 注册进eurekaServer-->
+        <!--引入eureka-client起步依赖 里面有ribbon的依赖，就不需要加ribbon-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
