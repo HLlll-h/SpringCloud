@@ -20,6 +20,7 @@
     <module>10_cloud_consumerzk_order80</module>
       <module>12_cloud_provider_consul_payment8006</module>
     <module>13_cloud_consumer_consul_order80</module>
+      <module>15_cloud_consumer_feign_order80</module>
   </modules>
 
   <!-- 统一管理jar包版本 -->
