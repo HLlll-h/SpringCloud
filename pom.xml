@@ -24,6 +24,7 @@
       <module>17_cloud_provider_hystrix_payment8001</module>
       <module>18_cloud_consumer_feign_hystrix_order80</module>
     <module>19_cloud_consumer_hystrix_dashboard9001</module>
+      <module>21_cloud_gateway_gateway9527</module>
   </modules>
 
   <!-- 统一管理jar包版本 -->
