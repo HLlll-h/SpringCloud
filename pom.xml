@@ -25,6 +25,9 @@
       <module>18_cloud_consumer_feign_hystrix_order80</module>
     <module>19_cloud_consumer_hystrix_dashboard9001</module>
       <module>21_cloud_gateway_gateway9527</module>
+    <module>23_cloud_config_center_3344</module>
+    <module>24_cloud_config_client_3355</module>
+    <module>25_cloud_config_client_3366</module>
   </modules>
 
   <!-- 统一管理jar包版本 -->
