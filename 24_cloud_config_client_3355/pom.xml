@@ -61,11 +61,6 @@
             <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
 
-        <!--添加消息总线RabbitNQ支持-->
-        <!--<dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-bus-amap</artifactId>
-        </dependency>-->
 
 
     </dependencies>

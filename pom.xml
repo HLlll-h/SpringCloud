@@ -28,6 +28,9 @@
     <module>23_cloud_config_center_3344</module>
     <module>24_cloud_config_client_3355</module>
     <module>25_cloud_config_client_3366</module>
+      <module>26_cloud_stream_rabbitmq_provider8801</module>
+    <module>27_cloud_stream_rabbitmq_consumer8802</module>
+    <module>28_cloud_stream_rabbitmq_consumer8803</module>
   </modules>
 
   <!-- 统一管理jar包版本 -->
@@ -109,6 +112,7 @@
         <optional>true</optional>
       </dependency>
 
+
     </dependencies>
   </dependencyManagement>
 
@@ -117,6 +121,7 @@
       <plugin>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-maven-plugin</artifactId>
+<!--        <version>2.2.2.RELEASE</version>-->
         <configuration>
           <fork>true</fork>
           <addResources>true</addResources>
