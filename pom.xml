@@ -34,6 +34,7 @@
     <module>30_cloudalibaba_provider_payment9001</module>
     <module>31_cloudalibaba_provider_payment9002</module>
       <module>32_cloudalibaba_consumer_nacos_order83</module>
+      <module>34_cloudalibaba_config_ancos_client3377</module>
   </modules>
 
   <!-- 统一管理jar包版本 -->
